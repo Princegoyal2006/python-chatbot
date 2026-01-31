@@ -1,0 +1,24 @@
+✨ Features
+Greeting conversation
+Displays current time and date
+Number Guessing Game
+Basic Calculator
+Addition
+Subtraction
+Multiplication
+Division
+Continuous chat until user exits
+
+🛠️ Technologies Used
+Python 3
+Python Modules:
+datetime
+random
+
+⚙️ How the Chatbot Works
+Displays a welcome message
+Takes user input
+Converts input to lowercase
+Matches input with predefined rules
+Executes the corresponding function
+Continues until the user types bye or exit
